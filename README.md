@@ -1,12 +1,32 @@
-# React + Vite
+# ✈️ Flight Booking
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a simple hotel and flight booking website built with React. It features a clean design with transparent UI elements, smooth navigation, and a dynamic search functionality.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🔍 What You Can Do
 
-## Expanding the ESLint configuration
+- Browse the **Home** page with a beautiful background and call-to-action.
+- Use the **Booking** page to search for flights or hotels.
+- Get results dynamically on the **Search Results** page.
+- If you enter an invalid URL, a **404 Not Found** page will be shown.
+- Navigation bar and footer are consistent across pages.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 📌 How to Use the Website
+
+1. **Navigate using the Navbar**:
+   - Click on "Home" to return to the landing page.
+   - Click on "Booking" to fill in the search form.
+
+2. **Search for Flights/Hotels**:
+   - On the Booking page, enter your travel details.
+   - Click the search button to view results.
+
+3. **Invalid Page Handling**:
+   - If you visit a non-existent route, you will see a "Page Not Found" message.
+
+---
+
+
