@@ -1,6 +1,6 @@
 # ✈️ Flight Booking
 
-This is a simple hotel and flight booking website built with React. It features a clean design with transparent UI elements, smooth navigation, and a dynamic search functionality.
+This is a simple flight booking website built with React. It features a clean design with transparent UI elements, smooth navigation, and a dynamic search functionality.
 
 ---
 
